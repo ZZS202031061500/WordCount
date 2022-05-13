@@ -1,0 +1,5 @@
+cd. 
+
+i like you
+
+\Clion\VS项目\WordCount\x64\Debug
